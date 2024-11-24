@@ -1,3 +1,5 @@
+'''Author:Vijilee George Kurian
+description:a simple food menu list'''
 from random import choice
 menu=["Alfham","mandhi","noodles"]
 while True:
